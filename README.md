@@ -20,8 +20,8 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 | The Wave Database Case Study     | This case study employs SQL to answer questions about a money transfer business operated by a company called Wave. | https:// https://github.com/AndyMortey/The-Wave-Database-CaseStudy.git     |
-| 2 |  -             |  -             | https://       |
+| 1 | The Wave Database Case Study     | This case study employs SQL to answer questions about a money transfer business operated by a company called Wave. | https:// https://github.com/AndyMortey/The-Wave-Database-CaseStudy.git|
+| 2 | The Titanic Story | This project aims to provide a complete analysis of what sorts of people were likely to survive in the titanic incident | https://github.com/AndyMortey/The-Titanic-Story.git|
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
